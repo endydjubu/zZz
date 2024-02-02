@@ -1,4 +1,4 @@
-Global $VERIFIKASI[9][6]	=	[ _ ; ID,KEY,LH,TTR1,LHKillall,TTR2
+[ _ ; ID,KEY,LH,TTR1,LHKillall,TTR2
 										["ID-KomputerKU","{01F173E9-8BA5-3FAE-8996-C799B5BF36FB}","lh",1,1,1], _
 										["Obhi","{3EEA7518-A491-5E0D-8F61-C4E33B5ED44F}","lh",0,1,1], _
 										["Ombo","{952E7D5D-A4D6-CC4F-5973-90FC1A925620}","lh",0,1,1], _
