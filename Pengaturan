@@ -1,0 +1,17 @@
+[
+{"product_id":"ETH-BTC","last":"0.06500000","open":"0.06500000","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"LTC-BTC","last":"0.02388999","open":"0.02388999","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"ETC-BTC","last":"0.00200000","open":"0.00200000","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"ZEC-BTC","last":"0.01100001","open":"0.01100001","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"STRAT-BTC","last":"0.00038910","open":"0.00038910","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"DASH-BTC","last":"0.03000001","open":"0.03000001","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"XMR-BTC","last":"0.01800000","open":"0.01800000","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"SC-BTC","last":"0.00000171","open":"0.00000171","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"XEM-BTC","last":"0.00002105","open":"0.00002105","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"WAVES-BTC","last":"0.00047080","open":"0.00047080","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"XLM-BTC","last":"0.00000351","open":"0.00000351","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"GNT-BTC","last":"0.00006799","open":"0.00006799","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"REP-BTC","last":"0.00200000","open":"0.00200000","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"XRP-BTC","last":"0.00005703","open":"0.00005703","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"},
+{"product_id":"BCH-BTC","last":"0.08550002","open":"0.08550002","high":"0.00000000","low":"0.00000000","volume":"0.00000000","volume_BTC":0,"volume_USD":0,"volume_7d":"0.00000000","volume_30d":"0.00000000","change":"0.00"}
+]
