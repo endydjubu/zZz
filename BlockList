@@ -1,9 +1,8 @@
+||jnn-pa.googleapis.com^
+||youtubei.googleapis.com/log_event?*
+||youtubei.googleapis.com/youtubei/v1/log_event?*
+||play.google.com/log?*
+||s.youtube.com^
+||youtube-nocookie.com^
 ||doubleclick.net^
-||googlevideo.com^$important
-||youtubeads.google.com^
-||pagead2.googlesyndication.com^
-||youtubeads.google.com^
-||pagead2.googlesyndication.com^
-||doubleclick.net^
-||xxnx.com^
-||googleadservices.com^
+||googleads.g.doubleclick.net^
